@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "I yearn only for death."
 date:   2022-11-02 09:25:17 -0600
 categories: jekyll update
 ---
