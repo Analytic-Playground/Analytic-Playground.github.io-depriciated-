@@ -5,7 +5,7 @@ permalink: /sideprojects/
 ---
 <h1>Side Projects & Visualizations</h1>
 In my down time I enjoy taking on small side projects from time to time. Some are related to current events:
-{%include GH_COVID_Dash.html%}{: .center-GH_COVID_Dash.html }
+{%include GH_COVID_Dash.html%}{:refdef: style="text-align: center;"}
 
 
 Other times I like to explore data related to the holidays/seasons:
