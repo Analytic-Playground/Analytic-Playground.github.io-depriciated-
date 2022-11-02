@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects, Seasonal
-permalink: /projectsseasonal/
+title: Side Projects
+permalink: /sideprojects/
 ---
 <h1>Side Projects & Visualizations</h1>
 In my down time I enjoy taking on small side projects from time to time. Some are related to current events:
