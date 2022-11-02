@@ -27,7 +27,7 @@ twitter_username: jekyllrb
 github_username:  Analytic-Playground
 
 # Build settings
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-chirpy 
 plugins:
   - jekyll-feed
 
