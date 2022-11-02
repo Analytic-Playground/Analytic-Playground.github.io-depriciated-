@@ -20,8 +20,7 @@
 
 title: Matts Analytics Portfolio
 email: makrieger212@gmail.com
-description: 
-Analytics portfolio powered by Github & Jekyll.
+description: Analytics portfolio powered by Github & Jekyll.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "Analytic-Playground.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
