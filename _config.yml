@@ -28,7 +28,8 @@ github_username:  Analytic-Playground
 
 # Build settings
 # minima
-theme: jekyll-theme-chirpy 
+# jekyll-theme-chirpy
+theme: minima
 plugins:
   - jekyll-feed
 
